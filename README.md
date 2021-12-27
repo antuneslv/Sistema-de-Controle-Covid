@@ -10,28 +10,28 @@ O programa deverá exibir um menu inicial com as seguintes opções:
 
   1. Registrar uma vacinação.
   
-    - Nesta opção você deverá perguntar:    
-      - O nome da pessoa.
-      - Qual a vacina.
-      - Você deverá salvar além desses dados, o valor do dia e da hora de vacinação.
+  - Nesta opção você deverá perguntar:    
+    - O nome da pessoa.
+    - Qual a vacina.
+    - Você deverá salvar além desses dados, o valor do dia e da hora de vacinação.
       
   2. Adicionar estoque de uma vacina.
   
-    - Nesta opção você deverá perguntar:    
-      - O nome da vacina.
-      - A quantidade a ser adicionada.
+  - Nesta opção você deverá perguntar:    
+    - O nome da vacina.
+    - A quantidade a ser adicionada.
       
   3. Obter número total de vacinados.
   
-    - Nesta opção você deverá imprimir a quantidade total de vacinados e além disso a quantidade total de vacinados por cada uma das vacinas.
+  - Nesta opção você deverá imprimir a quantidade total de vacinados e além disso a quantidade total de vacinados por cada uma das vacinas.
   
   4. Obter média de vacinação diária.
   
-    - Nesta opção você deverá imprimir a média diária somando todas as vacinas e além disso a média diária por cada uma das vacinas.
+  - Nesta opção você deverá imprimir a média diária somando todas as vacinas e além disso a média diária por cada uma das vacinas.
   
   5. Obter a quantidade atual de doses de um tipo de vacina.
   
-    - Você deverá imprimir a quantidade restante de doses para cada uma das vacinas.
+  - Você deverá imprimir a quantidade restante de doses para cada uma das vacinas.
   
   6. Fechar programa.
 
