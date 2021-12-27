@@ -35,8 +35,7 @@ O programa deverá exibir um menu inicial com as seguintes opções:
   
   6. Fechar programa.
 
-Observações:
-
+Observações:  
 Caso a pessoa digite uma opção inválida, a programa deverá imprimir "Opção inválida" e perguntar novamente uma nova opção.
 
 ## Parte 2 - Logística
