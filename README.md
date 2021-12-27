@@ -1,4 +1,4 @@
-# Sistema-de-Controle-Covid
+# Sistema de Controle Covid
 
 <p>Projeto final do curso Coding Tank da Let's Code</p>
 
